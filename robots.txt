@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zielizeehi.linqtoquerystring.net/sitemap.xml
